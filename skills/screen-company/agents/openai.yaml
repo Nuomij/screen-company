@@ -1,0 +1,4 @@
+interface:
+  display_name: "面试前公司筛查"
+  short_description: "从五个方面核验公司与岗位信息，整理风险线索和面试追问"
+  default_prompt: "使用 $screen-company，帮我在面试前筛查这家公司，标明事实、推断与待核实事项。"
